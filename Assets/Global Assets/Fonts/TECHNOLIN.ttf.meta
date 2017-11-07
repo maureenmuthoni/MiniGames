@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e313a9e2574db1e4ab9a5f5bbb683d0c
+timeCreated: 1495532787
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TECHNOLIN
+  fontNames:
+  - TECHNOLIN
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
